@@ -1,8 +1,8 @@
 # Flappy Bird do Jeffinho
+ É um game que possui uma base comum, onde algumas funcionalidades foram adicionadas para melhorias de código e de performance
+Aqui estão algumas idéias para você começar:
 
-## - É um game que possui uma base comum, onde algumas funcionalidades foram adicionadas para melhorias de código e de performance
-
-# Upgrades
-
-## Céu
-A cor do céu do game varia de acordo com o horário do dia em que o usuário está jogando
+# Se liga aqui:
+- 🔭 Atualmente estou trabalhando em melhorias de performance em geral do game
+- 🤔 Estou procurando ajuda com inserção de demais funções
+- 💬 Pode dar fork sem medidas!
